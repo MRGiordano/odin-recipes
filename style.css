@@ -1,0 +1,27 @@
+body {
+    background: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+  }
+  
+  .title {
+    background: #e3f4ff;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .content {
+    background: #e3f4ff;
+    padding: 16px 8px;
+    margin: 8px auto;
+  }
+
+  li {
+    font-size: 12px;
+  }
